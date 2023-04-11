@@ -1,4 +1,4 @@
-const img = readFileSync("./img/img.png");
+export const img = readFileSync("./img/img.png");
 
 const base64 = Buffer.from(img).toString("base64");
 
