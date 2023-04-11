@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kelani34/meme-search#readme",
   "dependencies": {
     "graphql": "^16.6.0",
+    "weaviate": "^0.0.14",
     "weaviate-ts-client": "^1.0.0"
   }
 }
