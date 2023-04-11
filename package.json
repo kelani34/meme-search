@@ -1,0 +1,24 @@
+{
+  "name": "meme-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelani34/meme-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelani34/meme-search/issues"
+  },
+  "homepage": "https://github.com/kelani34/meme-search#readme",
+  "dependencies": {
+    "weaviate-ts-client": "^1.0.0"
+  }
+}
