@@ -4,9 +4,7 @@ export const schemaConfig = {
   vectorIndexTypr: "hnsw",
   moduleConfig: {
     "img2vec-neural": {
-      img2vec: {
-        imageFields: ["image"],
-      },
+      imageFields: ["image"],
     },
   },
   properties: [
@@ -15,8 +13,8 @@ export const schemaConfig = {
       dataType: ["blob"],
     },
     {
-        name: "text",
-        dataType: ["string"],
-    }
+      name: "text",
+      dataType: ["string"],
+    },
   ],
 };
